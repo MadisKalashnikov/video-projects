@@ -257,7 +257,7 @@ Grocery List
 
 .grocery-container {
   margin-top: 2rem;
-  transition: var(--transition);
+  transition: 1s ease-in-out;
   visibility: hidden;
 }
 .show-container {
